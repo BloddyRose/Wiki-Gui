@@ -4,6 +4,8 @@ import sys
 
 # Form implementation generated from reading ui file '.\app.ui'
 #
+# Created By BloddyRose 
+# This may have bugs so make issues please!!
 # Created by: PyQt5 UI code generator 5.13.2
 #
 # WARNING! All changes made in this file will be lost!
